@@ -1,10 +1,4 @@
-package TasksKata;
-/*В этой ката вам будет дано целое число диапазона 0 <= x <= 99, и вы должны будете вернуть это число, записанное на английском языке. Несколько примеров:
-
-nameThatNumber(4)  // returns "four"
-nameThatNumber(19) // returns "nineteen"
-nameThatNumber(99) // returns "ninety nine"
-Слова должны разделяться только пробелами, а не дефисами. Нет необходимости проверять параметры, они всегда будут в диапазоне [0, 99]. Убедитесь, что возвращаемая строка не имеет начальных и конечных пробелов. Удачи! */
+package TasksKata.nameThatNumber;
 
 import java.util.ArrayList;
 import java.util.Arrays;
